@@ -1,0 +1,1 @@
+input_path = 'data/input/input_mock_data.xlsx'
