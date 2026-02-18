@@ -24,7 +24,7 @@ A package to generate bank and portfolio specific expected credit loss estimates
 
 ## Author and contact
 
-Laurent Millischer - lmillischer@worldbank.org / laurent@millischer.eu
+Laurent Millischer - lmillischer@worldbank.org
 
 ## Update the environment
 
